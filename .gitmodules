@@ -1,0 +1,6 @@
+[submodule "sentencepiece_chinese_bpe"]
+	path = sentencepiece_chinese_bpe
+	url = https://github.com/taishan1994/sentencepiece_chinese_bpe.git
+[submodule "SentenceEmbedding"]
+	path = SentenceEmbedding
+	url = https://github.com/yuanzhoulvpi2017/SentenceEmbedding.git
